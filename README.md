@@ -5,6 +5,10 @@ This is a Visual Studio project that analyzes bank/super fund statements, and cr
 2. Amount
 3. Text (the description of the transaction)
 
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/20692464/26519779/9aa579e8-4309-11e7-9d9e-244bf39c3968.jpg" alt="Statement Analyzer Form">
+<p>
+
 This program can be useful to tax/super fund accountants, in the cases that they are given PDF files without the respective spreasheets. Following the accounting standards, debit is depicted in the spreadsheet as a positive number and credit as a negative one.
 
 Supported financial institutions:
