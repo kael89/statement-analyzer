@@ -5,7 +5,7 @@ This is a Visual Studio project that analyzes bank/super fund statements, and cr
 2. Amount
 3. Text (the description of the transaction)
 
-This program can be useful to tax/super fund accountants, in the cases that they are given PDF files without the respective spreasheets. Following the accounting standards, debit is depicted as a positive number and the credit as a negative one.
+This program can be useful to tax/super fund accountants, in the cases that they are given PDF files without the respective spreasheets. Following the accounting standards, debit is depicted in the spreadsheet as a positive number and credit as a negative one.
 
 Supported financial institutions:
 * Asgard
@@ -17,14 +17,14 @@ Supported financial institutions:
 
 ### Prerequisites
 
-Visual Studio
-Microsoft Windows Excel
+* Visual Studio
+* Microsoft Windows Excel
 
 ### Installing
 
 Download/clone the files, and open StatementAnalyzer.sln with Visual Studio.
 
-###Dependencies
+### Dependencies
 * [iTextSharp](https://www.nuget.org/packages/iTextSharp/) - .NET library for parsing PDF files
 
 ## Built With
